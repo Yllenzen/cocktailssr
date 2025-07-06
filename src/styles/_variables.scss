@@ -1,0 +1,13 @@
+:root {
+  --font-family: "Bad Script", cursive;
+  --primary: oklch(70.2% 0.183 293.541);
+  --dark: oklch(43.2% 0.232 292.759);
+  --light: oklch(90.2% 0.063 306.703);
+  --text-color: #222;
+  --success: oklch(69.6% 0.17 162.48);
+  --danger: oklch(57.7% 0.245 27.325);
+  --gray-700: oklch(37.2% 0.044 257.287);
+  --gray-100: #dfe6e9;
+  --border: 1px solid var(--gray-100);
+  --radius: 24px;
+}
